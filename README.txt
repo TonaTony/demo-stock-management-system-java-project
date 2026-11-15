@@ -1,7 +1,7 @@
 T-Stock Management System Java project.
 Project author: https://github.com/TonaTony
 ------------------------------------------------------------------------------------------------------------------------------------------
-This project is a Java project for a demo stock management system. This system includes a smooth 
+This project is a demo stock management system in Java. This system includes a smooth 
 GUI for users to perform different operations such as sign-up, login, stock item creation, stock item update,
 stock item deletion, user account update, item search, displaying stock data and a database to store user 
 credentials and stock information. The system boasts features such as SQL injection prevention, 
